@@ -1,2 +1,2 @@
 # Python-Project
-Hoel Management System
+Hotel Management System
